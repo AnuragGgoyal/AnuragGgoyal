@@ -5,19 +5,19 @@
 <!--[![Issues][issues-shield]][issues-url]
 (url)(url)[![MIT License][license-shield]][license-url]-->
  
-[contributors-shield]: https://img.shields.io/github/contributors/AnuragGgoyal/Ankushkv.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/AnuragGgoyal/AnuragGgoyal.svg?style=for-the-badge
 [contributors-url]: https://github.com/AnuragGgoyal/IQAC-Management/graphs/contributors
 
 [forks-shield]: https://img.shields.io/github/forks/AnuragGgoyal/Ankushkv.svg?style=for-the-badge&color=228B22
 [forks-url]: https://github.com/AnuragGgoyal/IQAC-Management/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/AnuragGgoyal/Ankushkv.svg?style=for-the-badge&color=B048B5
+[stars-shield]: https://img.shields.io/github/stars/AnuragGgoyal/AnuragGgoyal.svg?style=for-the-badge&color=B048B5
 [stars-url]: https://github.com/AnuragGgoyal/IQAC-Management/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/AnuragGgoyal/Ankushkv.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/AnuragGgoyal/AnuragGgoyal.svg?style=for-the-badge
 [issues-url]: https://github.com/AnuragGgoyal/IQAC-Management/issues
 
-[license-shield]: https://img.shields.io/github/license/AnuragGgoyal/Ankushkv.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/AnuragGgoyal/AnuragGgoyal.svg?style=for-the-badge
 [license-url]: https://github.com/AnuragGgoyal/Best-README-Template/blob/master/LICENSE.txt
 
 <a name="readme-top"></a> 
