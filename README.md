@@ -83,13 +83,13 @@
 [![twitter][twitter]][twitter-url]
  
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-url]: https://linkedin.com/in/AnuragGgoyal
+[linkedin-url]: https://linkedin.com/in/itsanuragGgoyal
 
 [Instagram]:https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-[Instagram-url]:https://www.instagram.com/AnuragGgoyal
+[Instagram-url]:https://www.instagram.com/its_anurag_goyal
 
 [Facebook]:https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-[Facebook-url]:https://www.facebook.com/ankushkvx/
+[Facebook-url]:https://www.facebook.com/itsanurag.goyal/
 
 [twitter]:https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 [twitter-url]:https://twitter.com/AnuragGgoyal
