@@ -21,6 +21,12 @@
 [license-url]: https://github.com/AnuragGgoyal/Best-README-Template/blob/master/LICENSE.txt
 
 <a name="readme-top"></a> 
+
+
+<p align="center"> <a href="https://github.com/AnuragGgoyal/IQAC-Management/graphs/contributors"> <img src="https://img.shields.io/github/contributors/AnuragGgoyal/AnuragGgoyal.svg?style=for-the-badge" alt="Contributors" /> </a> <a href="https://github.com/AnuragGgoyal/IQAC-Management/network/members"> <img src="https://img.shields.io/github/forks/AnuragGgoyal/Ankushkv.svg?style=for-the-badge&color=228B22" alt="Forks" /> </a> <a href="https://github.com/AnuragGgoyal/IQAC-Management/stargazers"> <img src="https://img.shields.io/github/stars/AnuragGgoyal/AnuragGgoyal.svg?style=for-the-badge&color=B048B5" alt="Stars" /> </a> </p>
+
+
+
 ## Coding Language
 [![Dotnet][Dotnet.microsoft.com]][Dotnet-url]
 [![CSharp][CSharp]][CSharp-url]
